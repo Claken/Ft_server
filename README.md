@@ -1,6 +1,6 @@
-# FT_SERVER
+# 🌐 FT_SERVER
 
-## What I have gained from this project
+## 👩🏻‍🏫 What I have gained from this project
 
 This project helped me build practical DevOps and system administration skills by creating a complete web stack in a single Docker image. I learned how to:
 - Configure and secure an Nginx web server with HTTPS and self-signed certificates.
@@ -8,14 +8,14 @@ This project helped me build practical DevOps and system administration skills b
 - Automate service setup through a Dockerfile and SQL initialization scripts.
 - Understand how web services communicate internally (Nginx ↔ PHP-FPM ↔ MariaDB).
 
-## Pre-requisites
+## 📦 Pre-requisites
 
 Before running this project, make sure you have:
 - Docker installed.
 - Permission to run Docker commands on your machine.
 - A local environment where ports `80` and `443` are available.
 
-## Usage
+## 🚀 Usage
 
 1. Build the Docker image:
    ```bash
