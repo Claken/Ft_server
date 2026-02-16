@@ -1,8 +1,11 @@
 # 🌐 FT_SERVER
 
+This project consists of creating a complete web stack in a single Docker image.
+It helped me build practical DevOps and system administration skills.
+
 ## 👩🏻‍🏫 What I have gained from this project
 
-This project helped me build practical DevOps and system administration skills by creating a complete web stack in a single Docker image. I learned how to:
+I learned how to:
 - Configure and secure an Nginx web server with HTTPS and self-signed certificates.
 - Install and connect WordPress, MariaDB, PHP-FPM, and phpMyAdmin.
 - Automate service setup through a Dockerfile and SQL initialization scripts.
