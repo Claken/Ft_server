@@ -1,6 +1,6 @@
 # 🌐 FT_SERVER
 
-This project consists of creating a complete web stack in a single Docker image.
+This project consists of creating a complete web stack in a single Docker image. <br/>
 It helped me build practical DevOps and system administration skills.
 
 ## 👩🏻‍🏫 What I have gained from this project
